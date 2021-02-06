@@ -1,0 +1,31 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon points="250,0 0,433.013 500,433.013" transform="rotate(0 0 0)" fill="pink" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="60" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="220" cy="111.962" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="280" cy="111.962" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="163.923" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="190" cy="163.923" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="310" cy="163.923" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="220" cy="215.885" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="280" cy="215.885" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="160" cy="215.885" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="340" cy="215.885" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="267.846" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="190" cy="267.846" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="130" cy="267.846" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="310" cy="267.846" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="370" cy="267.846" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="220" cy="319.808" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="280" cy="319.808" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="160" cy="319.808" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="340" cy="319.808" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="100" cy="319.808" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="400" cy="319.808" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="371.769" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="190" cy="371.769" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="130" cy="371.769" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="70" cy="371.769" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="310" cy="371.769" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="370" cy="371.769" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<circle cx="430" cy="371.769" r="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+</svg>

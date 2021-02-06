@@ -1,0 +1,18 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon points="328,28 28,547.615 628,547.615" transform="rotate(0 28 28)" fill="blue" stroke="black" stroke-width="0.5" />
+<circle cx="328" cy="128" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="278" cy="214.603" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="378" cy="214.603" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="328" cy="301.205" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="228" cy="301.205" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="428" cy="301.205" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="278" cy="387.808" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="378" cy="387.808" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="178" cy="387.808" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="478" cy="387.808" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="328" cy="474.41" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="228" cy="474.41" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="128" cy="474.41" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="428" cy="474.41" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="528" cy="474.41" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+</svg>

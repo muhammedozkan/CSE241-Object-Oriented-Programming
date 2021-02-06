@@ -1,0 +1,13 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon points="288,38 38,471.013 538,471.013" transform="rotate(0 38 38)" fill="dimgrey" stroke="black" stroke-width="0.5" />
+<circle cx="288" cy="138" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="238" cy="224.603" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="338" cy="224.603" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="288" cy="311.205" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="188" cy="311.205" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="388" cy="311.205" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="238" cy="397.808" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="338" cy="397.808" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="138" cy="397.808" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="438" cy="397.808" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+</svg>

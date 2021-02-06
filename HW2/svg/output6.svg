@@ -1,0 +1,38 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<rect x="0"  y="0" width="750" height="500" transform="rotate(0 0 0)" fill="red" stroke="black" stroke-width="0.5" />
+<circle cx="50" cy="50" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="150" cy="50" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="50" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="350" cy="50" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="450" cy="50" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="550" cy="50" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="650" cy="50" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="50" cy="150" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="150" cy="150" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="150" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="350" cy="150" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="450" cy="150" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="550" cy="150" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="650" cy="150" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="50" cy="250" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="150" cy="250" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="250" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="350" cy="250" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="450" cy="250" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="550" cy="250" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="650" cy="250" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="50" cy="350" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="150" cy="350" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="350" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="350" cy="350" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="450" cy="350" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="550" cy="350" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="650" cy="350" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="50" cy="450" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="150" cy="450" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="450" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="350" cy="450" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="450" cy="450" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="550" cy="450" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="650" cy="450" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+</svg>

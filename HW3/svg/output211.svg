@@ -1,0 +1,18 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon points="255,5 5,438.013 505,438.013" transform="rotate(0 0 0)" fill="purple" stroke="black" stroke-width="0.5" />
+<circle cx="255" cy="85" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="215" cy="154.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="295" cy="154.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="255" cy="223.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="175" cy="223.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="335" cy="223.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="215" cy="292.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="295" cy="292.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="135" cy="292.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="375" cy="292.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="255" cy="362.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="175" cy="362.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="95" cy="362.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="335" cy="362.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="415" cy="362.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+</svg>

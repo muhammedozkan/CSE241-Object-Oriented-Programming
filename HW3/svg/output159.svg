@@ -1,0 +1,18 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon points="250,0 0,433.013 500,433.013" transform="rotate(0 0 0)" fill="pink" stroke="black" stroke-width="0.5" />
+<rect x="50"  y="383.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="150"  y="383.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="250"  y="383.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="350"  y="383.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="100"  y="333.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="200"  y="333.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="300"  y="333.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="100"  y="283.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="200"  y="283.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="300"  y="283.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="150"  y="233.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="250"  y="233.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="150"  y="183.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="250"  y="183.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="200"  y="133.013" width="100" height="50" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+</svg>

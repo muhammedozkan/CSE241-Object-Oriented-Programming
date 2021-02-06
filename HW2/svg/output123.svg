@@ -1,0 +1,12 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon points="200,0 0,346.41 400,346.41" transform="rotate(0 0 0)" fill="red" stroke="black" stroke-width="0.5" />
+<rect x="75"  y="246.41" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="125"  y="246.41" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="175"  y="246.41" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="225"  y="246.41" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="275"  y="246.41" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="125"  y="146.41" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="175"  y="146.41" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="225"  y="146.41" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="175"  y="46.4102" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+</svg>

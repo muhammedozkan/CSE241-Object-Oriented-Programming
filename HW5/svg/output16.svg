@@ -1,0 +1,28 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<rect x="38"  y="38" width="500" height="500" transform="rotate(0 38 38)" fill="purple" stroke="black" stroke-width="0.5" />
+<circle cx="88" cy="88" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="188" cy="88" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="288" cy="88" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="388" cy="88" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="488" cy="88" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="88" cy="188" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="188" cy="188" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="288" cy="188" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="388" cy="188" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="488" cy="188" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="88" cy="288" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="188" cy="288" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="288" cy="288" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="388" cy="288" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="488" cy="288" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="88" cy="388" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="188" cy="388" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="288" cy="388" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="388" cy="388" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="488" cy="388" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="88" cy="488" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="188" cy="488" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="288" cy="488" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="388" cy="488" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="488" cy="488" r="50" transform="rotate(0 7 7)" fill="green" stroke="black" stroke-width="0.5" />
+</svg>

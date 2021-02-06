@@ -1,0 +1,28 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon points="200,0 0,346.41 400,346.41" transform="rotate(0 0 0)" fill="red" stroke="black" stroke-width="0.5" />
+<polygon points="200,0 165,60.6218 235,60.6218" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="200,121.244 165,60.6218 235,60.6218" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="165,60.6218 130,121.244 200,121.244" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="165,181.865 130,121.244 200,121.244" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="235,60.6218 200,121.244 270,121.244" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="235,181.865 200,121.244 270,121.244" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="130,121.244 95,181.865 165,181.865" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="130,242.487 95,181.865 165,181.865" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="200,121.244 165,181.865 235,181.865" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="200,242.487 165,181.865 235,181.865" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="270,121.244 235,181.865 305,181.865" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="270,242.487 235,181.865 305,181.865" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="95,181.865 60,242.487 130,242.487" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="95,303.109 60,242.487 130,242.487" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="165,181.865 130,242.487 200,242.487" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="165,303.109 130,242.487 200,242.487" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="235,181.865 200,242.487 270,242.487" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="235,303.109 200,242.487 270,242.487" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="305,181.865 270,242.487 340,242.487" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="305,303.109 270,242.487 340,242.487" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="60,242.487 25,303.109 95,303.109" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="130,242.487 95,303.109 165,303.109" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="200,242.487 165,303.109 235,303.109" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="270,242.487 235,303.109 305,303.109" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<polygon points="340,242.487 305,303.109 375,303.109" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+</svg>

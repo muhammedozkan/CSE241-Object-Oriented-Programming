@@ -1,0 +1,24 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon points="350,0 0,606.218 700,606.218" transform="rotate(0 0 0)" fill="brown" stroke="black" stroke-width="0.5" />
+<circle cx="350" cy="100" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="300" cy="186.603" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="400" cy="186.603" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="350" cy="273.205" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="273.205" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="450" cy="273.205" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="300" cy="359.808" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="400" cy="359.808" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="200" cy="359.808" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="500" cy="359.808" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="350" cy="446.41" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="446.41" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="150" cy="446.41" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="450" cy="446.41" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="550" cy="446.41" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="300" cy="533.013" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="400" cy="533.013" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="200" cy="533.013" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="500" cy="533.013" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="100" cy="533.013" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="600" cy="533.013" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+</svg>

@@ -1,0 +1,13 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon points="200,0 0,346.41 400,346.41" transform="rotate(0 0 0)" fill="red" stroke="black" stroke-width="0.5" />
+<circle cx="200" cy="80" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="160" cy="149.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="240" cy="149.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="200" cy="218.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="120" cy="218.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="280" cy="218.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="160" cy="287.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="240" cy="287.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="80" cy="287.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="320" cy="287.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+</svg>

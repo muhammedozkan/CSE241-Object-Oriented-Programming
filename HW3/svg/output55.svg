@@ -1,0 +1,42 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<rect x="10"  y="10" width="500" height="500" transform="rotate(0 0 0)" fill="purple" stroke="black" stroke-width="0.5" />
+<circle cx="50" cy="50" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="130" cy="50" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="210" cy="50" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="290" cy="50" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="370" cy="50" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="450" cy="50" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="90" cy="119.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="170" cy="119.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="119.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="330" cy="119.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="410" cy="119.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="50" cy="188.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="130" cy="188.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="210" cy="188.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="290" cy="188.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="370" cy="188.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="450" cy="188.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="90" cy="257.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="170" cy="257.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="257.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="330" cy="257.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="410" cy="257.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="50" cy="327.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="130" cy="327.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="210" cy="327.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="290" cy="327.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="370" cy="327.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="450" cy="327.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="90" cy="396.41" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="170" cy="396.41" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="396.41" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="330" cy="396.41" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="410" cy="396.41" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="50" cy="465.692" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="130" cy="465.692" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="210" cy="465.692" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="290" cy="465.692" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="370" cy="465.692" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="450" cy="465.692" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+</svg>

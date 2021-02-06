@@ -1,0 +1,13 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon points="260,10 10,443.013 510,443.013" transform="rotate(0 0 0)" fill="dimgrey" stroke="black" stroke-width="0.5" />
+<circle cx="260" cy="110" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="210" cy="196.603" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="310" cy="196.603" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="260" cy="283.205" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="160" cy="283.205" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="360" cy="283.205" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="210" cy="369.808" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="310" cy="369.808" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="110" cy="369.808" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+<circle cx="410" cy="369.808" r="50" transform="rotate(0 0 0)" fill="green" stroke="black" stroke-width="0.5" />
+</svg>

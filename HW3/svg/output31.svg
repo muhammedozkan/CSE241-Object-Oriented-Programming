@@ -1,0 +1,47 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<rect x="0"  y="0" width="500" height="600" transform="rotate(0 0 0)" fill="brown" stroke="black" stroke-width="0.5" />
+<circle cx="40" cy="40" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="120" cy="40" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="200" cy="40" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="280" cy="40" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="360" cy="40" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="440" cy="40" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="80" cy="109.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="160" cy="109.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="240" cy="109.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="320" cy="109.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="400" cy="109.282" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="40" cy="178.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="120" cy="178.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="200" cy="178.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="280" cy="178.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="360" cy="178.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="440" cy="178.564" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="80" cy="247.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="160" cy="247.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="240" cy="247.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="320" cy="247.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="400" cy="247.846" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="40" cy="317.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="120" cy="317.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="200" cy="317.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="280" cy="317.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="360" cy="317.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="440" cy="317.128" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="80" cy="386.41" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="160" cy="386.41" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="240" cy="386.41" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="320" cy="386.41" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="400" cy="386.41" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="40" cy="455.692" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="120" cy="455.692" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="200" cy="455.692" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="280" cy="455.692" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="360" cy="455.692" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="440" cy="455.692" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="80" cy="524.974" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="160" cy="524.974" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="240" cy="524.974" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="320" cy="524.974" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+<circle cx="400" cy="524.974" r="40" transform="rotate(0 0 0)" fill="yellow" stroke="black" stroke-width="0.5" />
+</svg>

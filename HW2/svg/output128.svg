@@ -1,0 +1,31 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon points="200,0 0,346.41 400,346.41" transform="rotate(0 0 0)" fill="red" stroke="black" stroke-width="0.5" />
+<circle cx="200" cy="50" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="175" cy="93.3013" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="225" cy="93.3013" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="200" cy="136.603" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="150" cy="136.603" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="136.603" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="175" cy="179.904" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="225" cy="179.904" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="125" cy="179.904" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="275" cy="179.904" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="200" cy="223.205" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="150" cy="223.205" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="100" cy="223.205" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="223.205" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="300" cy="223.205" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="175" cy="266.506" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="225" cy="266.506" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="125" cy="266.506" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="275" cy="266.506" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="75" cy="266.506" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="325" cy="266.506" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="200" cy="309.808" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="150" cy="309.808" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="100" cy="309.808" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="50" cy="309.808" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="250" cy="309.808" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="300" cy="309.808" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<circle cx="350" cy="309.808" r="25" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+</svg>

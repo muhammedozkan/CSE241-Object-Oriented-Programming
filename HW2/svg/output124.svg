@@ -1,0 +1,26 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon points="200,0 0,346.41 400,346.41" transform="rotate(0 0 0)" fill="red" stroke="black" stroke-width="0.5" />
+<rect x="50"  y="316.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="125"  y="316.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="200"  y="316.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="275"  y="316.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="50"  y="286.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="125"  y="286.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="200"  y="286.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="275"  y="286.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="87.5"  y="256.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="162.5"  y="256.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="237.5"  y="256.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="87.5"  y="226.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="162.5"  y="226.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="237.5"  y="226.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="87.5"  y="196.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="162.5"  y="196.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="237.5"  y="196.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="125"  y="166.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="200"  y="166.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="125"  y="136.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="200"  y="136.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="162.5"  y="106.41" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+<rect x="162.5"  y="76.4102" width="75" height="30" transform="rotate(0 0 0)" fill="cyan" stroke="black" stroke-width="0.5" />
+</svg>

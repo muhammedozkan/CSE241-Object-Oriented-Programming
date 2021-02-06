@@ -1,0 +1,26 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
+<polygon points="300,0 0,519.615 600,519.615" transform="rotate(0 0 0)" fill="blue" stroke="black" stroke-width="0.5" />
+<rect x="75"  y="419.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="125"  y="419.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="175"  y="419.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="225"  y="419.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="275"  y="419.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="325"  y="419.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="375"  y="419.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="425"  y="419.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="475"  y="419.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="125"  y="319.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="175"  y="319.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="225"  y="319.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="275"  y="319.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="325"  y="319.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="375"  y="319.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="425"  y="319.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="175"  y="219.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="225"  y="219.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="275"  y="219.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="325"  y="219.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="375"  y="219.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="250"  y="119.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+<rect x="300"  y="119.615" width="50" height="100" transform="rotate(0 0 0)" fill="magenta" stroke="black" stroke-width="0.5" />
+</svg>
